@@ -4,3 +4,4 @@ test
 tu dodane
 znów
 znow#2
+zmiana
