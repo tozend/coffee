@@ -3,3 +3,4 @@ nowa _ linijka
 test
 tu dodane
 znów
+znow#2
