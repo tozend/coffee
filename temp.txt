@@ -2,3 +2,4 @@ testowy plik
 nowa _ linijka
 test
 tu dodane
+znów
